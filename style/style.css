@@ -15,7 +15,7 @@ body{
 }
 
 .boxcontainer{
-    max-width: 1088px;
+    max-width: 1108px;
     margin: 0 auto;
     padding:  0 1em;
     background-color: white;
@@ -256,6 +256,7 @@ body{
   animation-delay: 1000ms;
   cursor: url(/assets/team-pointer.svg) 0 0, pointer;
 }
+
 
 .typewriter h1 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
