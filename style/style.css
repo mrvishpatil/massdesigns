@@ -262,6 +262,15 @@ body{
   cursor: url(/assets/team-pointer.svg) 0 0, pointer;
 }
 
+.clientel-img{
+  transition: transform .5s; 
+}
+
+.clientel-img:hover{
+  transform: scale(1.15);
+  animation-delay: 1000ms;
+}
+
 
 .typewriter h1 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
