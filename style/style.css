@@ -208,6 +208,10 @@ a:hover {
   }
 }
 
+.cursor-pointer{
+  cursor: pointer;
+}
+
 .imagecontainer {
   height: max-content;
   width: 100%;
